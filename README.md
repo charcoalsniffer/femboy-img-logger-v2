@@ -1,8 +1,8 @@
-# Roblox-Image-Logger
-🌟A new fully undetectable Logger.  [Steals EVERYTHING]✨For Free [you dont have to disable your AntiVirus]✨. Please read the README file before
-✨Thanks to Encme & Talaxsice for helping with discord token protection
 
-![image](https://github.com/EmpyHacker/Roblox-Image-Logger/assets/147068145/85182409-e6bf-4df4-9252-3602bd2de928)
+A FUD image logger, when tyou upload the image up into your chat and they double click it, it logs them. 😈
+Developers: Future & charcoalsniffer
+
+![image](https://imgs.search.brave.com/rEV8V0B4DhkkhuH6m6Dq_O5hZLVBvrf0Q6wXeVu9dWw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vU0VKQzNCWjVx/UWtBQUFBQy9mZWxp/eC1hcmd5bGUtZmVs/aXguZ2lm.gif)
 
 # Features
 - 🌌 Grabs All Cookies
